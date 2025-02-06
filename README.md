@@ -19,7 +19,7 @@ Welcome to my repository for the **Machine Learning** course by Andrew Ng. This 
 ## Weekly Progress
 ### Week 1
 - **Topic:** Introduction & Linear Regression  
-- 📄 [Notes](./Notes/week1.md)  
+- 📄 [Notes](./Notes/week1)  
 - 📝 [Project](./Projects/week1/)  
 
 ## How to Use This Repository
