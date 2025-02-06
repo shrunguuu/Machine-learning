@@ -1,7 +1,7 @@
 # Machine Learning - Andrew Ng (Course Notes & Projects)
 
 ## Overview
-Welcome to my repository for the **Machine Learning** course by Andrew Ng. This repository contains my notes, weekly projects, and implementations of key concepts covered in the course.
+Welcome to my repository for the **Machine Learning** course by Andrew Ng. This repository contains  notes, weekly projects, and implementations of key concepts covered in the course.
 
 ## Course Details
 - **Instructor:** Andrew Ng
