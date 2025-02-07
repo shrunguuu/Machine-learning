@@ -23,6 +23,12 @@ Welcome to my repository for the **Machine Learning** course by Andrew Ng. This 
 - 📝 [Project](./Projects/week1/)
 - 📖 [Datasets](./Datasets/week1/)
 
+### Week 2
+- **Topic:** Multiple regression and vectorization
+- 📄 [Notes](./Notes/week2)  
+- 📝 [Project](./Projects/week2/)
+- 📖 [Datasets](./Datasets/week2/)
+
 ## How to Use This Repository
 - Clone the repository:  
   ```bash
