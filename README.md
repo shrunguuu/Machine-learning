@@ -29,6 +29,11 @@ Welcome to my repository for the **Machine Learning** course by Andrew Ng. This 
 - 📝 [Project](./Projects/week2/)
 - 📖 [Datasets](./Datasets/week2/)
 
+### Week 3
+- **Topic:** Multi-class Classification,Regularization and Logistic Regression Model
+- 📄 [Notes](./Notes/week3)  
+- 📝 [Project](./Projects/week3/)
+- 📖 [Datasets](./Datasets/week3/)
 ## How to Use This Repository
 - Clone the repository:  
   ```bash
