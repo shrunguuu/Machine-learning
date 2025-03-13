@@ -31,8 +31,6 @@ Machine-Learning-Andrew-Ng/
 ├── Datasets/
 │   ├── week1/
 │   ├── week2/
-│   ├── week3/
-│   ├── week4/
 ├── README.md
 ```
 
