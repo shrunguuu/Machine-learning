@@ -51,13 +51,13 @@ Machine-Learning-Andrew-Ng/
 - **Topic:** Multi-class Classification, Regularization, and Logistic Regression Model  
 - 📄 [Notes](./Notes/week3)  
 - 📝 [Project](./Projects/week3/)  
-- 📖 [Datasets](./Datasets/week3/)  
+    
 
 ### Week 4
 - **Topic:** Neural Networks and Deep Learning  
 - 📄 [Notes](./Notes/week4)  
 - 📝 [Project](./Projects/week4/)  
-- 📖 [Datasets](./Datasets/week4/)  
+  
 
 
 ## How to Use This Repository
